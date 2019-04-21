@@ -1,6 +1,7 @@
 body{
   margin: 0;
-  padding: 0;
+  padding: 50px;
   font-family:sans-serif;
   background: #FF7744;
+  text-align: center;
 }
