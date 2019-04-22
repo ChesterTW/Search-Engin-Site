@@ -2,16 +2,16 @@ body{
   margin: 0;
   padding: 50px;
   font-family:sans-serif;
-  background: #FF7744;
+  background: #ED6A4C;
   text-align: center;
 }
 .box{
-  width: 300px;
-  padding: 40px;
+  width: 500px;
+  padding: 80px;
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%,-50%);
-  background: #E37D67;
+  background: #FF7758;
   text-align: center;
 }
